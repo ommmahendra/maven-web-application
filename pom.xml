@@ -94,21 +94,21 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.235.199:8081/repository/wallmart-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.235.199:8081/repository/wallmart-snapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+        <distributionManagement>
+
+            <repository>
+              <id>nexus</id>
+              <name>wallmart  Nexus Repository</name>
+              <url>http://http://13.232.251.147:8081/repository/wallmart-release/</url>
+            </repository>
+
+           <snapshotRepository>
+              <id>nexus</id>
+              <name>wallmart shanpshot  Nexus Repository </name>
+              <url>http://http://13.232.251.147:8081/repository/wallmart-snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
