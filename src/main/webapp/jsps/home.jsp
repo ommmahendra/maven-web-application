@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. - GitHub Webhook Example... By .. MSS</h1>
-<h1 align="center"> Good Training center for DevOps with AWS in Maratha Halli !This is webhook test!!!</h1>
+<h1 align="center"> Good Training center for DevOps with AWS in Maratha Halli !This is webhook test from github!!!</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
